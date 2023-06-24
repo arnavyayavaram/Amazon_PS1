@@ -2,20 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-fields = ['ID','Title']
+fields = ['ID','Title','Brand','Model']
 
-csvfile = open("dp_title.csv", 'a',newline='',encoding="utf-8")
+# csvfile = open("1complete.csv", 'a',newline='',encoding="utf-8")
 
-csvwriter = csv.writer(csvfile)
+# csvwriter = csv.writer(csvfile)
 
-csvwriter.writerow(fields)
+# csvwriter.writerow(fields)
 
 id=1
 ctr=0
 
 x=None
 
-for j in range(1,52):
+for j in range(1,2):
 
     url = 'https://www.dpreview.com/products/cameras/all?page='
     url+=str(j)
@@ -43,7 +43,7 @@ for j in range(1,52):
         if "Sorry" in s:
             s=""
 
-        print(s)
+        # print(s)
 
         column_title = s
 
@@ -53,8 +53,12 @@ for j in range(1,52):
         if column_title == "":
             ctr+=1
 
+        namey=soup.find("h1",_class="headerContainer")
+        print(namey)
+
         tabrow = [id,str(column_title).strip()]
-        csvwriter.writerow(tabrow)
+        # csvwriter.writerow(tabrow)
+        # print(tabrow)
 
         id+=1
 
