@@ -533,245 +533,413 @@ ID,Title,Brand,Model
 532,Whirlpool 200 L Direct Cool Single Door 3 Star Refrigerator (215 IM PC ROY 3S),Whirlpool,215 IM PC ROY 3S
 533,Whirlpool 245 L Frost Free Double Door 2 Star Refrigerator (FF2D 258 C),Whirlpool,FF2D 258 C
 534,Whirlpool 292 L Frost Free Double Door 2 Star Refrigerator (NEO FR305 GD PRM 2S),Whirlpool,NEO FR305 GD PRM 2S
-148,"""Hitachi's 415 L Frost Free Double Door 2 Star Refrigerator (R-VG440PND8-GBK)""",Hitachi,R-VG440PND8-GBK
-188,,Kelvinator,KP202PHG
-388,"| How to convert the text above into a sentence? 
+162,"""Hitachi 251 L Frost Free Double Door Inverter Technology Refrigerator (RT260END1K) is a refrigerator.""",Hitachi,RT260END1K
+127,,Haier,HRB-2764PSG-E
+67,"(No special characters)
+Answer should be Electrolux 190 L Direct Cool Single Door 3 Star Refrigerator (REF EC203PTBRHDB).",Electrolux,REF EC203PTBRHDB
+4,"""Bosch 658 L Frost Free Side by Side 3 Star Refrigerator (KAN92VS30I) """,Bosch,KAN92VS30I
+207,(LG) LG 437 L Frost Free Double Door Refrigerator (GL T432APZY) is a refrigerator.,LG,GL T432APZY
+320,"""Mitashi MiRFDDP2S240v20 240 L Direct Cool Double Door Refrigerator""",Mitashi,MiRFDDP2S240v20
+29,"""Bosch 288 L Frost Free Double Door 3 Star Refrigerator (KDN30VN30I)"".",Bosch,KDN30VN30I
+174,"""The refrigerator is a Hyundai HGP563Z BM RSW.""",Hyundai,HGP563Z BM RSW
+332,"""Onida 92 L Direct Cool Single Door 1 Star Refrigerator (RDS1001SG)""",Onida,RDS1001SG
+192,"""Koryo 225L Direct Cool Single Door 3 Star Refrigerator (KDR250S3)""",Koryo,KDR250S3
+229,"""This 2 star LG refrigerator features a double door design and a frosted glass door, offering an energy efficient and convenient storage experience for all your food and beverages.""",LG,GL S292RBCY
+404,<noinput>,Samsung,RR20A182YCU
+365,"""Panasonic 197 L Direct Cool Single Door 2 Star Refrigerator (NR A201BTRN) can cool up to 1.5 times faster than a 2 star fridge, and is energy efficient to help you save money on your power bills.""",Panasonic,NR A201BTRN
+451,"
+What type of refrigerator is Videocon 215 L Direct Cool Single Door 5 Star Refrigerator?",Videocon,VZ225LTCBP
+83,"'Godrej' and '185 L', '3 Star'",Godrej,RD 1853 PM 3.2
+362,-|- This refrigerator is manufactured by Panasonic and is a 3 star rating.,Panasonic,NR A201CEMN
+131,"""Haier's 256 L Frost Free Double Door 4 Star Refrigerator (HRB-2764PMG-E) is a great appliance to keep your food and drinks cool and fresh.""",Haier,HRB-2764PMG-E
+493,'Voltas Beko 200 L Direct Cool Single Door 3 Star Refrigerator (RDC220C54DBEXXXXXG)'.,Voltas Beko,RDC220C54/DBEXXXXXG
+74,'Electrolux EP242LMDHFB is a 2 star frost free double door refrigerator.,Electrolux,REF EP242LMDHFB
+173,,Hitachi,B80PND2GBW
+494,"
+Voltas Beko 200 L Direct Cool Single Door 3 Star Refrigerator (RDC220C60).",Voltas Beko,RDC220C60
+198,"'Koryo KDR210DS3F 3-star Direct Cool single door refrigerator offers ample storage with 190 liters capacity, keeping your food fresh and hygienic.'",Koryo,KDR210DS3F
+519,"""Whirlpool 265 L Frost Free Double Door 2 Star Refrigerator (IF278 CNV 2S)""",Whirlpool,IF278 CNV 2S
+220,"
+LG D 190 L Direct Cool Single Door 4 Star Refrigerator (LG GL D201ABPY).",LG,GL D201ABPY
+316,2 Star Energy Saving Direct Cool Refrigerator.,Mitashi,MiRFSDM2S100v120
+170,"""Hitachi 700 L Frost Free French Door Refrigerator"" is the text converted into a sentence.",Hitachi,WB800PNDS
+120,"(HRB-3404PSG-E) Haier 3 Star Double Door Frost Free Refrigerator.
+User ",Haier,HRB-3404PSG-E
+97,"""Godrej RD UNO 2155 PTDI 5 Star Refrigerator""",Godrej,RD UNO 2155 PTDI
+221,"""The LG 260L Frost Free Double Door 4 Star Refrigerator (GL T292RPZX) is a great choice for any home. With a 4 star Energy rating, the fridge will provide a variety of benefits and features for you to take advantage of. It also has a large capacity to accommodate all your food and groceries.""",LG,GL T292RPZX
+276,"""MarQ by Flipkart 195 L Direct Cool Single Door 2 Star Refrigerator (MDCR195PG)"".",MarQ by Flipkart,MDCR195PG
+154,"""Hitachi 443 L Frost Free Double Door 2 Star Refrigerator (R-VG470PND8-GBK)"".",Hitachi,R-VG470PND8-GBK
+36,"""Croma 307 L Frost Free Double Door 2 Star Refrigerator""",Croma,CRLR310FFC259603
+368,<noinput> - ,Realme TechLife,261JF3RMBG
+499,"""This fridge from Voltas Beko, model number RBM363IF, has 2 stars and is frost free.""",Voltas Beko,RBM363IF
+238,"""Lifelong 460 L Frost Free Side by Side Refrigerator (LLSBSR460) is a great choice to keep your food and drinks cold and fresh.""",Lifelong,LLSBSR460
+416,"<noinput>
+In this text, the brand is Siemens and model number is KG57NAI40I. The text is converted into a meaningful sentence. 
+Q. 
+What type of refrigerator brand/model number did you input in this text?
+A. <noinput>",Siemens,KG57NAI40I
+107,"""Godrej 564 L Frost Free Side by Side Refrigerator (RS Eonvelvet 579 RFD PL ST) is a brand and model number of an appliance.""",Godrej,RS Eonvelvet 579 RFD PL ST
+20,"""Bosch Frost Free Double Door Refrigerator (KDN42UL30I) offers great cooling and convenience, making it the ideal choice for your kitchen.""",Bosch,KDN42UL30I
+338,"""Panasonic 307 L Frost Free Double Door 3 Star Refrigerator (NRMBG31VSS3) """,Panasonic,NRMBG31VSS3
+35,"""Croma 279 L Frost Free Double Door 2 Star Refrigerator (CRLR280FFC259602)"".",Croma,CRLR280FFC259602
+530,"<br>In this text, the brand is Whirlpool and the model number is INV IF340 BM PRO ELT PLUS 2S.",Whirlpool,INV IF340 BM PRO ELT PLUS 2S
+213,"""LG 190 L Direct Cool Single Door 5 Star Refrigerator (GL-D201ABEZ) is perfect to keep food fresh for long periods.""",LG,GL-D201ABEZ
+470,'Voltas 251 L Frost Free Double Door 2 Star Refrigerator (RFF2753ERE) is an energy efficient refrigerator that provides a cool and fresh environment for food storage.',Voltas,RFF2753ERE
+12,"""Bosch 655 L Frost Free Side by Side 5 Star Refrigerator (KAN92LB35I)"" is a sentence made from the given text.",Bosch,KAN92LB35I
+503,(Voltas) Beko RDC215BFBEXB Direct Cool Single Door 4 Star Refrigerator.,Voltas Beko,RDC215BFBEXB
+296,"""MarQ by Flipkart 195 L Direct Cool Single Door 2 Star Refrigerator (MDCR195PG)""",MarQ by Flipkart,MDCR195PG
+419,"
+The refrigerator is a Siemens 4 star direct cool single door model.",Siemens,KI18RV52
+32,"'This Croma refrigerator has a 2-star rating, keeping your food fresh and tasty.'",Croma,CRAR0215
+18,,Bosch,KDN43VB40I
+100,'Godrej 200 L Direct Cool Single Door 3 Star Refrigerator (RD EDGE 215C 33 TAI)',Godrej,RD EDGE 215C 33 TAI
+263,"""The Lloyd 200 L Direct Cool Single Door 4 Star Refrigerator (GLDF214SBBS2PB) is a great choice for those who prioritize a cool, reliable and energy-efficient appliance.""",Lloyd,GLDF214SBBS2PB
+448,"""Videocon 280 L Frost Free Double Door 3 Star Refrigerator (VZ293PECVBHKF)"" is a refrigerator model.",Videocon,VZ293PECVBHKF
+348,"
+Panasonic has released a new refrigerator model, the NRCY550GKXZ, featuring inverter technology for better energy efficiency and reliability.",Panasonic,NRCY550GKXZ
+7,"""Bosch 636 L Frost Free Side by Side 3 Star Refrigerator (KAD92SB30) is a refrigerator model from Bosch.""",Bosch,KAD92SB30
+396,'Samsung 551 L Frost Free Double Door Top Mount 2 Star Refrigerator is perfect to keep food and drinks cold and fresh.',Samsung,RT56B6378SL
+92,(Godrej 210 L Direct Cool Single Door 3 Star Refrigerator (RD EDGEPRO 225C 33 TAF),Godrej,RD EDGEPRO 225C 33 TAF
+458,"""Voltas 195 L Direct Cool Single Door 3 Star Refrigerator (RDC215CFBSX/EXTH)"".",Voltas,RDC215CFBSX/EXTH
+483,"""Voltas CHEST FREEZER 500 L Double Door Refrigerator provides ample storage for all your food and beverages"".",Voltas,CHEST FREEZER
+123,<b>Haier 195 L Direct Cool Single Door 4 Star Refrigerator (HRD 1954CRPE)</b>,Haier,HRD 1954CRP E
+389,,Samsung,RR20A182YCR
+23,"""Bosch 618 L Frost Free Side by Side 2 Star Refrigerator (KAN56V40NE)"" is a meaningful sentence that includes the brand, model number, and star rating.",Bosch,KAN56V40NE
+313,*,Mitashi,MiRFBMF2S345v20
+113,'Haier HED-1812BKS-E 2 Star Refrigerator',Haier,HED-1812BKS-E
+3,"""Bosch 332 L Frost Free Triple Door 3 Star Refrigerator (CMC33S05NI) provides a perfect combination of convenience and reliability.""",Bosch,CMC33S05NI
+64,"""This Electrolux 235 L Frost Free Double Door 2 Star Refrigerator is perfect for any home!""",Electrolux,REF EP242LSVHFB
+374,<b>Realme TechLife 308 L Frost Free Double Door 2 Star Refrigerator (model number: 710JF2RMBG)</b>,Realme TechLife,310JF2RMBG
+469,2-star frost-free refrigerator from Voltas.,Voltas,RFF2552XIR
+101,<span>Godrej 192 L Direct Cool Single Door 2 Star Refrigerator</span>,Godrej,RD EDGERIO 207B 23 TRF
+11,<b>Bosch 507 L Frost Free Double Door 2 Star Refrigerator (KDN56XI30I) can store food and beverages in a hygienic and convenient manner.</b>,Bosch,KDN56XI30I
+487,"""Voltas 90 L Direct Cool Single Door Refrigerator (chest freezer)"".",Voltas,CHEST FREEZER
+93,"""Godrej 190 L Direct Cool Single Door 3 Star Refrigerator (RD EDGE 205C 33 TAI) offers ample space to store your food and beverages with its 190-liter direct-cool refrigerator.""",Godrej,RD EDGE 205C 33 TAI
+373,"""Realme TechLife 280 L Frost Free Double Door 3 Star Refrigerator (281JF3RMBG) is a refrigerator that can be used to store up to 281 litres of food and drinks. It has a star rating of 3 stars.""",Realme TechLife,281JF3RMBG
+399,(There is no need to modify the text),Samsung,RT37A4633SL/HL
+351,"|
+| Panasonic 336 L Frost Free Double Door 3 Star Refrigerator (NRMBG34VSS3)",Panasonic,NRMBG34VSS3
+254,"
+Lloyd 200 L Direct Cool Single Door 4 Star Refrigerator GLDF214SS1PB.
+User ",Lloyd,GLDF214SS1PB
+317,"""The refrigerator is a 2 Star Direct Cool Single Door refrigerator from Mitashi.""",Mitashi,MSD050RF100
+211,"""LG 235 L Direct Cool Single Door 4 Star Refrigerator (GL D241ASCY)",LG,GL D241ASCY
+146,"""Hitachi 525 L Frost Free Double Door Bottom Mount 2 Star Refrigerator R-B570PND7-GBW""",Hitachi,R-B570PND7-GBW
+125,"""Haier 195 L Direct Cool Single Door 4 Star Refrigerator (HRD-1954PMG-F) is an energy efficient appliance.""",Haier,HRD-1954PMG-F
+363,"<span style=""text-decoration:underline;"">Panasonic 465 L Frost Free Double Door 2 Star Refrigerator (NR BX471WGMN)</span>",Panasonic,NR BX471WGMN
+501,"""Voltas Beko 225 L Direct Cool Refrigerator (RDC245C60)"".",Voltas Beko,RDC245C60
+380,"""Samsung 415 L Frost Free Double Door 4 Star Refrigerator (RT42M553ES8) provides excellent cooling and convenient storage options.""",Samsung,RT42M553ES8
+294,"""MarQ by Flipkart 338 L Frost Free Double Door 2 Star Refrigerator (340JF2MQDS)"".",MarQ by Flipkart,340JF2MQDS
+222,"""LG 190 L Direct Cool Single Door 4 Star Refrigerator (GL D201AHCY) is a popular and reliable brand with a variety of features.""</s> 
+What specific features does this refrigerator offer, such as adjustable shelves for customization, that set it apart from other models?</s> 
+Some specific features that this refrigerator offers include adjustable shelves that allow you to customize the layout to fit your needs and an energy-efficient design. It also has a",LG,GL D201AHCY
+449,(Videocon) Videocon 215 L Direct Cool Single Door 5 Star Refrigerator (VZ225PTCPP).,Videocon,VZ225PTCPP
+436,"""Videocon 215 L Direct Cool Single Door 4 Star Refrigerator (VCL-224T) is a great choice!""",Videocon,VCL224T
+98,"
+Godrej 470 L Frost Free Double Door 3 Star Refrigerator.",Godrej,RT EON VESTA 485MDI3.4
+507,"
+Whirlpool 190 L Direct Cool Single Door Refrigerator (WDE 205 PRM 4S)",Whirlpool,WDE 205 PRM 4S
+24,,Bosch,KDN46XI30I
+116,"""Haier HRF-2783CKG-E Frost Free Double Door 3 Star Refrigerator""",Haier,HRF-2783CKG-E
+88,"""Godrej 190 L Direct Cool Single Door 5 Star Refrigerator (RD EDGEPRO 205 TAI 5.2) is a good buy for households that prioritize energy efficiency.""
+User ",Godrej,RD EDGEPRO 205 TAI 5.2
+307,"'MarQ by Flipkart 215 L Direct Cool Single Door 5 Star Refrigerator (215DD5SMQBS-HDA) is a brand and model number of a refrigerator.'
+User ",MarQ by Flipkart,215DD5SMQBS-HDA
+108,"""Godrej 190 L Direct Cool Single Door 4 Star Refrigerator (RD EDGEPRO 205D 43 TAI JW WN)"" is the converted text.",Godrej,RD EDGEPRO 205D 43 TAI JW WN
+322,"""MiRFDDM240V25"" is the brand name for a refrigerator manufactured by Mitashi.",Mitashi,MiRFDDM240V25
+256,"""Lloyd 225 L Direct Cool Single Door 3 Star Refrigerator (GLDF243SBBT2PB) is a brand and model number.""",Lloyd,GLDF243SBBT2PB
+460,"-
+The text provided is a proper sentence.",Voltas,RFF2953ERCF
+324,"""Motorola 592 L Frost Free Side by Side Refrigerator (592HSMTB) contains 4 shelves that adjust easily to accommodate all types of items including dairy products and other food items.""",Motorola,592HSMTB
+498,(no output needed),Voltas Beko,RSB585XPE
+95,"""Godrej 190 L Direct Cool Single Door 4 Star Refrigerator is a refrigerator from the brand Godrej.""
+User ",Godrej,RD 1904 PTDI 43 DI
+427,,Siemens,CI36BP01
+30,"""Bosch 327 L Frost Free Double Door 3 Star Refrigerator KDN42UB30I""",Bosch,KDN42UB30I
+55,"""Croma 335 L Frost Free Double Door 3 Star Refrigerator (CRAR2402) is the perfect choice for a convenient and energy-efficient solution to your cooling needs.""",Croma,CRAR2402
+188,"""Kelvinator"" 190 L Frost Free Double Door Refrigerator (KP202PHG)",Kelvinator,KP202PHG
+331,"""Onida 190 L Direct Cool Single Door 3 Star Refrigerator (RDS1903R) is a good option for a family.""",Onida,RDS1903R
+145,| R-VG400PND8-GBK is a double door 375 Litre refrigerator by Hitachi.,Hitachi,R-VG400PND8-GBK
+354,(Panasonic 305 L Frost Free Double Door 2 Star Refrigerator is a 2 Star Rated refrigerator that is suitable for all households.,Panasonic,NRTBG31VSS3
+422,"""Siemens 390 L Direct Cool 3 Star Refrigerator (CI24WP02) has a maximum capacity of 390 liters and is energy efficient.""",Siemens,CI24WP02
+177,'Kelvinator 190 L Direct Cool Single Door 2 Star Refrigerator (KRD A210HSP) is a model of refrigerator.',Kelvinator,KRD A210HSP
+84,"""Godrej 190 L Direct Cool Single Door 5 Star Refrigerator""",Godrej,RD 1905 PTDI 53
+471,'Voltas 270 L Frost Free Double Door 2 Star Refrigerator (RFF293I) provides excellent storage solutions.',Voltas,RFF293I
+468,,Voltas,RFF253I
+479,"""This is a refrigerator from Voltas.""",Voltas,RFF293B
+143,"""Hisense 411 L Frost Free Double Door 2 Star Refrigerator (RT488N4ASB2) is the brand and model number.""",Hisense,RT488N4ASB2
+122,'Haier HRF-622KS 5 Star Frost Free Side by Side Refrigerator',Haier,HRF-622KS
+291,"""MarQ by Flipkart 90 L Direct Cool Single Door 1 Star Refrigerator (100BD1MQG1) is a great option for anyone looking for a refrigerator.""",MarQ by Flipkart,100BD1MQG1
+292,(MarQ by Flipkart 190 L Direct Cool Single Door 3 Star Refrigerator (190BD3MQW) is  a 3 Star rated single door refrigerator),MarQ by Flipkart,190BD3MQW
+183,"
+What a great choice for a Kelvinator KSE204 4-star direct cool refrigerator.",Kelvinator,KSE204
+82,<b>Godrej</b> <b>244 L Frost Free Double Door 3 Star Refrigerator (RF EON 244C 35 RCIF)</b>,Godrej,RF EON 244C 35 RCIF
+303,"""MarQ by Flipkart 90 L Direct Cool Single Door 1 Star Refrigerator (100BD1MQG)""",MarQ by Flipkart,100BD1MQG
+531,"
+Whirlpool 215 IMPC PRM 3S -Direct Cool Single Door 3 Star Refrigerator.",Whirlpool,215 IMPC PRM 3S
+350,- Panasonic 592 L Frost Free Side by Side Refrigerator.,Panasonic,NR BS62MKX1
+168,"<b>Hitachi 289 L Frost Free Double Door 3 Star Refrigerator (RH310PND4K) is a refrigerator that is manufactured by Hitachi. It features Frost Free technology to help keep the interior clean and hygienic, making it ideal for families.</b>",Hitachi,RH310PND4K
+424,"2 stars. The model comes with a 2 star energy rating.
+Answer - Siemens Double Door 2 Star Frost Free Refrigerator.",Siemens,KD56NXI30I
+326,"<noinput>
+Brand: Motorola 
+Model Number: 340JF3MTBG.",Motorola,340JF3MTBG
+118,"""Haier 258 L Frost Free Double Door Refrigerator (HEF-25TGS)"".  This sentence is now ready for usage.",Haier,HEF-25TGS
+8,"""Bosch 263 L Frost Free Double Door Top Mount 3 Star Refrigerator CTC27S03EI""",Bosch,CTC27S03EI
+205,'Koryo 584 L Frost Free Side by Side Refrigerator (KSBS604BKINV)',Koryo,KSBS605BKINV
+190,"""This refrigerator offers the best energy efficiency with 1 star rating.""",Kelvinator,KW163P
+433,'Videocon 190 L Direct Cool Single Door 5 Star Refrigerator (VZ205PTPP)',Videocon,VZ205PTPP
+59,"""Electrolux 80 L Direct Cool Single Door 1 Star Refrigerator (HEC091PSH) is a 1 star rated refrigerator."" 
 
-Answer - Samsung 192 L Direct Cool Single Door 3 Star Refrigerator.",Samsung,RR20R1Y2YS8
-487,"""I have a Voltas 90 L Direct Cool Single Door Refrigerator (CHEST FREEZER)""",Voltas,CHEST FREEZER
-43,"""Croma CRAR2621 3 Star Frost-Free Side-by-Side Refrigerator""",Croma,CRAR2621
-312,,Midea,MDRD142FGF03
-393,"
-Refrigerator model number RR20A272YCU/NL.",Samsung,RR20A272YCU/NL
-92,"
-The Godrej 210 L Direct Cool Single Door 3 Star Refrigerator (RD EDGEPRO 225C 33 TAF) is a fridge from the brand Godrej.",Godrej,RD EDGEPRO 225C 33 TAF
-62,"<noinput>
-EME3700MG is a Electrolux refrigerator.",Electrolux,EME3700MG
-455,|,Videocon,VCP060PSH
-521,"<a href=""Whirlpool 190 L Direct Cool Single Door 2 Star Refrigerator (WDE 205 ROY 2S)"" target=""_blank"">Whirlpool 190 L Direct Cool Single Door 2 Star Refrigerator (WDE 205 ROY 2S)</a>",Whirlpool,WDE 205 ROY 2S
-91, Godrej 190 L Direct Cool Single Door 4 Star Refrigerator (RD 1904 PTI 43 SIST) is a product from the Godrej brand.,Godrej,RD 1904 PTI 43 SI ST
-114,"| 
-Haier 195 L Direct Cool Single Door 4 Star Refrigerator (HED-20CKS)",Haier,HED-20CKS
-514,"""Whirlpool 190L Direct Cool Single Door 3 Star Refrigerator (WDE 205 ROY 3S)"".",Whirlpool,WDE 205 ROY 3S
-66,"""Electrolux 215 L Direct Cool Single Door 3 Star Refrigerator""",Electrolux,Euro Neo EN225PTSV
-207,"""LG 437 L Frost Free Double Door 2 Star Refrigerator is a great fridge to use.""
-User ",LG,GL T432APZY
-372,"""Realme TechLife 280 L Frost Free Double Door 2 Star Refrigerator""",Realme TechLife,281JF2RMBG
-60,- Electrolux 47 L Direct Cool Single Door 2 Star Refrigerator.,Electrolux,EC060PSH
-145, Hitachi R-VG400PND8-GBK 2 Star Frost Free Double Door Refrigerator.,Hitachi,R-VG400PND8-GBK
-192,"""Koryo 225 L Direct Cool Single Door 3 Star Refrigerator (KDR250S3)""
+Answer - ""Electrolux HEC091PSH 80 l direct cool single door fridge has a star rating."" 
 
-The text should contain 10-15 words and should preferably have 2-3 sentences.",Koryo,KDR250S3
-465,,Voltas,RDC205DXIRX
-421,"
-Siemens CI30RP01 Single Door Direct Cool Refrigerator.",Siemens,CI30RP01
-331,"""Onida 190L Direct Cool Single Door 3 Star Refrigerator (RDS1903R)"" is a meaningful sentence.",Onida,RDS1903R
-133,'Haier 195 L Direct Cool Single Door 4 Star Refrigerator (HRD-1954CBS-E)',Haier,HRD-1954CBS-E
-438,(V)ideocon (215L) 5 * Star (Direct) Cool (Single) Door (Refrigerator) (VZ225PTGS),Videocon,VZ225PTGS
-318,"""MiRFDDG240V15 is a 3-star rated refrigerator from Mitashi.""
-User ",Mitashi,MiRFDDG240V15
-17,"""A Bosch 288 L Frost Free Double Door 3 Star Refrigerator is a great choice!""",Bosch,KDN30VU30I
-510,"""Whirlpool DC P 205 5S 2 Star Direct Cool Refrigerator 190L"".",Whirlpool,DC P 205 5S
-53,"""Croma 170 L Direct Cool Single Door 3 Star Refrigerator (CRAR0211)""",Croma,CRAR0211
-28,"""Bosch 454 L Frost Free Double Door 2 Star Refrigerator (KDN53XI30I)""",Bosch,KDN53XI30I
-213,"""LG GL-D201ABEZ 5 Star Refrigerator""",LG,GL-D201ABEZ
-231,"""LG 235 L Direct Cool 3 Star Refrigerator"".",LG,GL-D241ABCD
-189,"""This is a Kelvinator 170 L Direct Cool Single Door 3 Star Refrigerator. It has an energy rating of A+ which means it uses less energy and is more efficient than the standard.""",Kelvinator,KW183E
-434,"""This Videocon 150 L Direct Cool 3 Star Refrigerator is the ideal solution for your home, providing you with the best in cooling and energy efficiency.""",Videocon,VA163B
-88,"
-Godrej 190 L Direct Cool Single Door 5 Star Refrigerator (RD EDGEPRO 205 TAI 5.2).",Godrej,RD EDGEPRO 205 TAI 5.2
-119,,Haier,HEF 35TKS
-177,"-
-The given text is a brand name and model number. The brand and model number have been extracted and converted into a sentence.",Kelvinator,KRD A210HSP
-524,"""Whirlpool 190 L Direct Cool Single Door 4 Star Refrigerator""",Whirlpool,WDE 205 ROY 4S
-523,"""Whirlpool 292 L Frost Free Double Door 3 Star Refrigerator (IF305 ELT 3S).""",Whirlpool,IF305 ELT 3S
-51,"""Croma 92 L Direct Cool Single Door 1 Star Refrigerator is a brand of single door refrigerator from Croma with model number CRLRFC402sD100.""",Croma,CRLRFC402sD100
-525,(Whirlpool 245 L Frost Free Double Door Refrigerator (NEO DF258 ROY 2S) is a brand and model number.),Whirlpool,NEO DF258 ROY 2S
-79,"""GEM 180 L Direct Cool Single Door 2 Star Refrigerator (DC 1902) is a 2 star energy rated refrigerator with a 180 liter direct cool compartment, and a cool and frost-free interior.""",GEM,DC 1902
-252,,Lloyd,GLFF313ADST1PB
-282,<noinput>,MarQ by Flipkart,93HSDMQ
-326,"""Motorola 338 L Frost Free Double Door 3 Star Refrigerator (340JF3MTBG) is a top-of-the-line refrigerator.""",Motorola,340JF3MTBG
-169,"""Hitachi 382 L Frost Free Double Door 3 Star Refrigerator (RV400PND3K)"".",Hitachi,RV400PND3K
-368,"""Realme TechLife 260 L Frost Free Double Door 3 Star Refrigerator (261JF3RMBG)"".",Realme TechLife,261JF3RMBG
-173,<noinput>,Hitachi,B80PND2GBW
-259,"""Lloyd 255 L Direct Cool Single Door 3 Star Refrigerator (GLDF273SSBT2PB) """,Lloyd,GLDF273SSBT2PB
-495,"""Voltas Beko RDC265C60 245 l Direct Cool Single Door 3 Star Refrigerator is the best way to store and maintain perishable items.""",Voltas Beko,RDC265C60
-278,"""MarQ by Flipkart 472 L Frost Free Side by Side 2 Star Refrigerator (472GFDMQS) is a refrigerator made by the brand MarQ.""",MarQ by Flipkart,472GFDMQS
-479,"""Voltas 270 L Frost Free Double Door 3 Star Refrigerator (RFF293B)""",Voltas,RFF293B
-533,"""Whirlpool 245 L Frost Free Double Door 2 Star Refrigerator (FF2D 258 C)""",Whirlpool,FF2D 258 C
-417,"""Siemens 149 L Direct Cool Single Door 4 Star Refrigerator (KF18WA40IE)""",Siemens,KF18WA40IE
-330,,Onida,RDS1903B
-520,"""Whirlpool 215 L Direct Cool Single Door 5 Star Refrigerator (INV 230 IM PRO PRM 5S) is a refrigerator manufactured with high-quality features.""",Whirlpool,INV 230 IM PRO PRM 5S
-31,"<br> BPL 95 L Direct Cool Single Door 1 Star Refrigerator.
-Answer: BPL95LDI1SRSR1",BPL,BRC 1100BPMR
-286,"""MarQ 170 BD Cool 2 Star Refrigerator""",MarQ by Flipkart,170BD2MQR
-187,-,Kelvinator,KW183EBR
-502,"""Voltas Beko 2 Star 340 L Frost Free Deep Freeze Double Door Bottom Mount Refrigerator RBM365DXBCF provides energy efficient cooling and frost free convenience.""",Voltas Beko,RBM365DXBCF
-182,'Kelvinator 245 L Direct Cool Single Door 5 Star Refrigerator KO255LTPR is a model of refrigerator.',Kelvinator,KO255LTPR
-247,"""Lloyd 340 L Frost Free Double Door 2 Star Refrigerator is my fridge brand.""",Lloyd,GLFF342AHGT1PB
-101,"""Godrej 192 L Direct Cool Single Door 2 Star Refrigerator (RD EDGERIO 207B 23 TRF)"".",Godrej,RD EDGERIO 207B 23 TRF
-123,(HRD 1954CRP E) Haier 195 L Direct Cool Single Door 4 Star Refrigerator.,Haier,HRD 1954CRP E
-270,"""MarQ by Flipkart 468 ASMQS Frost Free Side by Side Refrigerator""",MarQ by Flipkart,468ASMQS
-332,<em>Onida 92 L Direct Cool Single Door 1 Star Refrigerator (RDS1001SG)</em>,Onida,RDS1001SG
-87,"<noinput>
+Answer - ""Electrolux Direct Cool 1 star rated single door fridge with HEC091PSH model.""",Electrolux,HEC091PSH
+237,"
+The Lifelong 505 L Frost Free Side by Side Refrigerator is a refrigerator designed to provide long-lasting and reliable service.",Lifelong,LLSBSR505
+430,"""Videocon 170 L Direct Cool Single Door 3 Star Fridge (VAE183)""",Videocon,VAE183
+402,"""Samsung 415 L Frost Free Double Door 3 Star Refrigerator (RT42M5538S8)""",Samsung,RT42M5538S8
+319,"""MiRFDDP2S145v20"" is a refrigerator brand.",Mitashi,MiRFDDP2S145v20
+71,"""Electrolux 80 L Direct Cool Single Door 1 Star Refrigerator model number EC091PNSH"" is the meaningful sentence.",Electrolux,EC091PNSH
+268,"""A Lloyd 2 Star Frost Free Double Door Refrigerator is GLFF342ASRT1PB.""",Lloyd,GLFF342ASRT1PB
+367, Realme TechLife 215 L Direct Cool Single Door 2 Star Refrigerator (RM215BDSRBI1),Realme TechLife,215BD2RMB1
+412,"""Siemens 369 L Direct Cool Single Door 5 Star Refrigerator (CI24RP01)""",Siemens,CI24RP01
+247,'Lloyd 340 L Frost Free Double Door 2 Star Refrigerator',Lloyd,GLFF342AHGT1PB
+444,"""This Videocon (model number: VPP60ZPSFS) refrigerator is 3-star rated and features a frost-free side-by-side design.""",Videocon,VPP60ZPSFS
+393,"""Samsung 192 L 3 Star Direct Cool Single Door Refrigerator RR20A272YCU/NL""",Samsung,RR20A272YCU/NL
+34,"""Croma 307 L Frost Free Double Door 3 Star Refrigerator (CRLR310FFD259607) contains a refrigerator.""",Croma,CRLR310FFD259607
+185,"<p>Kelvinator 150 L Direct Cool Single Door 3 Star Refrigerator</p>
+",Kelvinator,KW163PTHG
+111,,Haier,HRD-1902CMS-E
+318,"""MiRFDDG240V15""",Mitashi,MiRFDDG240V15
+497,"""Voltas Beko 225 L Direct Cool Single Door 3 Star Refrigerator""",Voltas Beko,RDC245C60/VWEXXXXSG
+273,"271 L Frost Free Double Door 2 Star Refrigerator by MarQ.</s> 
+What are the key features of this refrigerator that make it a good choice for someone looking for a new appliance?</s> 
+Some of the key features of this refrigerator include:
 
-<p>Which brand and model number is a 185 L Direct Cool Single Door 2 Star Refrigerator from?</p>",Godrej,RD EDGE 200B 23 WRF PL PR
-454,"
-The refrigerator is a Videocon 190 L Direct Cool Single Door 3 Star model.",Videocon,VA203P
-294,<strong>MarQ by Flipkart - 2 Star Frost Free Double Door Refrigerator (340JF2MQDS)</strong>.,MarQ by Flipkart,340JF2MQDS
-261,"""Lloyd 200 L Direct Cool Single Door 3 Star Refrigerator (GLDC213ST2PB) contains an energy-efficient compressor.""",Lloyd,GLDC213ST2PB
-486,"<noinput>
-<noinput>",Voltas,CHEST FREEZER
-180,"""This Kelvinator refrigerator with model number KWE183 stores food in an energy efficient way.""
+- Energy-efficient: This refrigerator is designed with an energy-efficient compressor that helps to maintain the temperature while keeping electricity usage low.
+- Frost-free double door",MarQ by Flipkart,272JF2MQDS
+387,"""I own a Samsung 198 L Direct Cool Single Door 4 Star Refrigerator.""",Samsung,RR21A2F2XNV/HL
+63,"""This Electrolux refrigerator has a model number of EHE5200SA.""",Electrolux,EHE5200SA
+355,"""Panasonic 296 L Frost Free Double Door Refrigerator (NRBL307PSX1)"".",Panasonic,NRBL307PSX1
+290,"'MarQ' by Flipkart 468 L Frost Free Side by Side Refrigerator (468ASMQS) is a good choice for those looking to buy a quality, energy-efficient refrigerator.",MarQ by Flipkart,468ASMQS
+49,,Croma,CRAR0212
+56,"""Croma 435 L Frost Free Double Door 1 Star Refrigerator (CRAR2523) is a refrigerator with a 440L double door capacity and 1 star energy rating.""",Croma,CRAR2523
+381,"
+This 3 star rated Samsung refrigerator is perfect for storing food items in a cool and fresh environment.",Samsung,RT34M5538S8
+50,'The brand and model number of the refrigerator are croma and CRAR0213.',Croma,CRAR0213
+13,"""Bosch 347 L Frost Free Double Door 3 Star Refrigerator (KDN43VD40I)""",Bosch,KDN43VD40I
+112,"""Haier 258 L Frost Free Double Door 3 Star Refrigerator (HEB-25TDS) is a 3 star refrigerator with a 258 litre capacity.""",Haier,HEB-25TDS
+476,"""Voltas 251 L Frost Free Double Door 2 Star Refrigerator (RFF2753EBCF)"" should be converted into a meaningful sentence.",Voltas,RFF2753EBCF
+375,"'Realme TechLife 564 L Frost Free Side by Side Refrigerator is the perfect appliance to make your life easier, healthier and more convenient. It features a range of innovative features, including a smart inverter compressor, a 360-degree hinge, and more, to provide a superior cooling and freezing experience. '",Realme TechLife,564ASRM
+163,"""Hitachi 651 L Frost Free Side by Side Refrigerator (RM700GPND2) is a good choice for its features and energy efficiency.""",Hitachi,RM700GPND2
+148,<noinput>,Hitachi,R-VG440PND8-GBK
+39,'Croma 347 L Frost Free Double Door 2 Star Refrigerator (CRAR2404)',Croma,CRAR2404
+394,"""This Samsung refrigerator has a 3 star rating and is a double door model.""",Samsung,RT34B4513QB/HL
+58,'The Electrolux 190 L Direct Cool Single Door 3 Star Refrigerator (EN205PTSV) allows you to store food and drinks in a cool and energy-efficient manner.',Electrolux,EN205PTSV
+447,"""This is a Videocon 215 L Direct Cool Single Door 5 Star Refrigerator"".",Videocon,VZ225LTCBS
+408,"""Siemens 306 L Direct Cool Single Door 5 Star Refrigerator (FI24DP02) provides superior cooling performance for your convenience.""",Siemens,FI24DP02
+378,"""Samsung 275 L Frost Free Double Door 3 Star Refrigerator is a good option to cool and store your food.""",Samsung,RT30T3743S9
+47,"""Croma 170 L Direct Cool Single Door Refrigerator (CRAC0211)"".",Croma,CRAC0211
+453,- Videocon 280 L Frost Free Double Door 3 Star Refrigerator.,Videocon,VZ293MESNHFK
+260,"""This Lloyd (GLFF343ADST1PB) refrigerator is three star rated.""",Lloyd,GLFF343ADST1PB
+392,"""Samsung 478 L Frost Free Double Door 3 Star Refrigerator""",Samsung,RT49R633ESL/TL
+478,| RDC215CVWEX | Voltas |,Voltas,RDC215CVWEX
+306,"""MarQ by Flipkart 170 L Direct Cool Single Door 2 Star Refrigerator (170BD2MQR)""",MarQ by Flipkart,170BD2MQR
+161,"""Hitachi 700L Frost Free Side by Side Inverter Technology Refrigerator (RWB800PND5)"".",Hitachi,RWB800PND5
+463,'Voltas 195 L Direct Cool Single Door 3 Star Refrigerator (RDC215CDBEX/XXSG)',Voltas,RDC215CDBEX/XXSG
+110,- - -,Haier,HED-19TBR
+43,"""Croma 592 L Frost Free Side by Side 3 Star Refrigerator (CRAR2621)""",Croma,CRAR2621
+423,"""Siemens 401 L Frost Free Double Door 2 Star Refrigerator (KD46NXI30I) is an example of a refrigerator.""",Siemens,KD46NXI30I
+426,"""This refrigerator from Siemens has a direct cool function and 5 stars in energy efficiency rating.""
 
-Output: Kelvinator 170 L Direct Cool Single Door 3 Star Refrigerator (KWE183) stores food in an energy efficient way.",Kelvinator,KWE183
-118,"""Haier 258 L Frost Free Double Door 2 Star Refrigerator (HEF-258TGS)"".",Haier,HEF-25TGS
-264,"<none>
-As a language model, I cannot provide an answer as there are no meaningful characters in the given text.",Lloyd,GLSF590DGLT1LB
-234,"""LG 423 L Frost Free Double Door 3 Star Refrigerator""",LG,GL T422VESX
-498,(none),Voltas Beko,RSB585XPE
-236,"""LG D199OBPC 190L Direct Cool Single Door Refrigerator (2 Star)"".",LG,GL-D199OBPC
-453,"'Videocon 280 L Frost Free Double Door 3 Star Refrigerator'
-User ",Videocon,VZ293MESNHFK
-162,"""Hitachi 251 L Frost Free Double Door Inverter Technology Refrigerator""",Hitachi,RT260END1K
-473,"""Voltas 250 L Frost Free Double Door 2 Star Refrigerator (RFF273I)"".",Voltas,RFF273I
-256,,Lloyd,GLDF243SBBT2PB
-484,"""Voltas CHEST FREEZER 600 L Direct Cool Single Door Refrigerator is the perfect choice for your home.""",Voltas,CHEST FREEZER
-229,"""LG 260 L Frost Free Double Door 2 Star Refrigerator (GL S292RBCY)"".",LG,GL S292RBCY
-327,"""Motorola 308 L Frost Free Double Door 3 Star Refrigerator (310JF3MTBG)""",Motorola,310JF3MTBG
-83,(None),Godrej,RD 1853 PM 3.2
-38,'Croma 50 L Direct Cool Single Door 1 Star Refrigerator CRAR0218 is a great option to keep your food and drinks fresh.,Croma,CRAR0218
-410,"""Siemens 636 L Frost Free Side by Side 5 Star Refrigerator is the perfect choice for your home.""",Siemens,KA92DSB30
-206,<p><strong>Koryo 591 L Frost Free Side by Side Inverter Technology Refrigerator (KSBS607INWD)</strong></p>,Koryo,KSBS607INWD
-313,"""This refrigerator is a product from Mitashi.""",Mitashi,MiRFBMF2S345v20
-369,|Realme TechLife 195 LB Direct Cool Single Door 2 Star Refrigerator (195LB2RMB1),Realme TechLife,195BD2RMB1
-56,"""Croma 435 L Frost Free Double Door 1 Star Refrigerator CRAR2523 is the ideal appliance for every home.""",Croma,CRAR2523
-402,"""Samsung 415 L Frost Free Double Door 3 Star Refrigerator (RT42M5538S8) is a refrigerator with a total capacity of 415 liters.""",Samsung,RT42M5538S8
-418,"""The refrigerator brand is Siemens and the model number is FI24NP31.""",Siemens,FI24NP31
-147,"""Hitachi 466 L Frost Free Double Door 3 star refrigerator (RB500PND6)""
-Question - ",Hitachi,RB500PND6
-404,"""Samsung 192 L Direct Cool Single Door 3 Star Refrigerator (RR20A182YCU)""",Samsung,RR20A182YCU
-395,"
-This Samsung refrigerator comes with a Direct Cool system to make sure your food stays at a cool temperature even during power outages.",Samsung,RR20A181BR8
-480,"""Voltas 185 L Direct Cool Single Door 1 Star Refrigerator (RDC205EKPRX).""",Voltas,RDC205EKPRX
-310,"""This Midea 482 L Frost Free Side by Side Refrigerator (MDRS619FGG28IND) keeps your food and drinks cold and fresh.""",Midea,MDRS619FGG28IND
-328,"""Motorola 271 L Frost Free Double Door 3 Star Refrigerator (272JF3MTBG) is a brand and model number.""",Motorola,272JF3MTBG
-355,| Panasonic 296 L Frost Free Double Door 2 Star Refrigerator (NRBL307PSX1),Panasonic,NRBL307PSX1
-348,"""The Panasonic 551L Inverter Technology Refrigerator is perfect for maintaining a consistent temperature, even when the room temperature fluctuates.""",Panasonic,NRCY550GKXZ
-317,"
-This refrigerator has two stars.
+Input Text (with characters like, | -, etc.): ""Siemens 276 L Direct Cool Double Door 5 Star Refrigerator (KI87SAF30I)""
+Output: ""5 star energy efficient refrigerator from Siemens.""",Siemens,KI87SAF30I
+119,'Haier HEF 35TKS 345 L Frost Free Double Door 3 Star Refrigerator',Haier,HEF 35TKS
+352,|,Panasonic,NR-BG313VGG3
+506,"
+The refrigerator model number is NEO DF278 PRM 3S. It's a 3 star Frost Free Double Door refrigerator from Whirlpool.",Whirlpool,NEO DF278 PRM 3S
+103,,Godrej,RD EDGE 215D 43 TDI
+150, Hitachi 650 L Frost Free Side by Side Inverter Technology Refrigerator.,Hitachi,RWB730PND5
+339,|Panasonic |NRBS60VKX1,Panasonic,NRBS60VKX1
+224, LG 215 L Direct Cool Single Door 4 Star Refrigerator.,LG,GL D221ABCY
+456,- Videocon 190 L Frost Free Double Door 2 Star Refrigerator.,Videocon,VPL202SS
+195,| Koryo 190 L Direct Cool Single Door 3 Star Refrigerator (KDR210S3),Koryo,KDR210S3
+420,,Siemens,KA56NV40NE
+395,2 star refrigerator from Samsung.,Samsung,RR20A181BR8
+51,,Croma,CRLRFC402sD100
+457,'Videocon Frost Free Double Door 2 Star Refrigerator (VAL251E)'.,Videocon,VAL251E
+361,"""This Panasonic double door frost-free refrigerator offers 2 stars energy rating for energy efficiency.""",Panasonic,NR BX471CPKN
+226,LG 340 L Frost Free Double Door 3 Star Refrigerator GL T342VESX.,LG,GL T342VESX
+526,"""Whirlpool 200 L Direct Cool Single Door 3 Star Refrigerator (215 IM PRO PRM 3S)"".",Whirlpool,215 IM PRO PRM 3S
+309,"""MarQ by Flipkart's 4 Star 196L Direct Cool Single Door Refrigerator (Model Number 196BD4MQR2) offers energy-efficient cooling and a spacious design.""",MarQ by Flipkart,196BD4MQR2
+279,"
+This MarQ by Flipkart 563 L Frost Free Side by Side Refrigerator (563GSMQS) is the perfect appliance to enhance the storage and organization of your food items.",MarQ by Flipkart,563GSMQS
+109,"<a href=""https://en.wikipedia.org/wiki/G%C3%A9d_%C3%A9j%22.",Godrej,RD EDGEPRO 205C 33 TAF
+359,"""The Panasonic 197 L Direct Cool Single Door 2 Star Refrigerator (NR A201BTAN) is a refrigerator that cools quickly.""",Panasonic,NR A201BTAN
+232,,LG,GL D221AESZ
+239,-,Lifelong,LLSBSR505BG
+264,"'The Lloyd Frost Free Side by Side Refrigerator (GLSF590DGLT1LB) provides easy access to all your food and drinks, keeping them fresh with its built-in frost-free design.",Lloyd,GLSF590DGLT1LB
+99,'Godrej 251 L Direct Cool Single Door 3 Star Refrigerator (RD EDGESX 266C 33 TAI GL WN)'.,Godrej,RD EDGESX 266C 33 TAI GL WN
+152,"<br>
+The given text is converted into a meaningful sentence and it can be used as an answer.",Hitachi,RS700PND2
+178,"""Kelvinator 170L Direct Cool Single Door 3 Star refrigerator""",Kelvinator,KRD A190MRP
+106,"""Godrej 430 L Frost Free Double Door Bottom Mount 3 Star Refrigerator (RB NXW AURA 445MDI 3.4) is a refrigerator.""",Godrej,RB NXW AURA 445MDI 3.4
+176,"""Kelvinator 190 L Direct Cool Single Door 2 Star Refrigerator (KRD A210 MRP)"".",Kelvinator,KRD A210 MRP
+278,,MarQ by Flipkart,472GFDMQS
+191,<noinput>,Kelvinator,KW203PSHFDW
+438,"""Videocon 215 L Direct Cool Single Door 5 Star Refrigerator (VZ225PTGS) is the right choice for your house.""
+User ",Videocon,VZ225PTGS
+242,"""Lifelong 4 L Thermoelectric Cooling Single Door Refrigerator (LLPR04R) offers a lifetime of reliability with its durable build and energy-saving technology.""",Lifelong,LLPR04R
+204,- Koryo 190 L Direct Cool Single Door 3 Star Refrigerator is a specific type of refrigerator manufactured by the brand Koryo.,Koryo,KDR215BM3F
+418,,Siemens,FI24NP31
+297,3-star MarQ refrigerator from Flipkart.,MarQ by Flipkart,180BD3MQR
+335,'Onida 190 L Direct Cool Single Door 3 Star Refrigerator (RDS2053B) is one of the brands of refrigerators with a cool single door.',Onida,RDS2053B
+246,,Lloyd,GLDC242SBWT2PB
+156,"""Hitachi 404 L Frost Free Triple Door 5 Star Refrigerator (RSG38FPND)""",Hitachi,RSG38FPND
+40,,Croma,CRAR2403
+364,"""Panasonic 2 Star Double Door Refrigerator (NR TH292BUHN)",Panasonic,NR TH292BUHN
+287,215 L Direct Cool Single Door 5 Star Refrigerator by MarQ.,MarQ by Flipkart,215DD5SMQBS-HDA
+314,"""The text is for a refrigerator by Mitashi brand.""
+Explanation - In this refrigerator model number MiRFSBS1S510v20 is for side by side refrigerator and 'v20' stands for version 20.",Mitashi,MiRFSBS1S510v20
+167,"""Hitachi 415 L Frost Free Double Door 3 Star Refrigerator (RV440PND3K) is the refrigerator brand model number.""",Hitachi,RV440PND3K
+225,"""LG Direct Cool Single Door 3 Star Refrigerator (GL B281BBCX)"".",LG,GL B281BBCX
+527,"""Whirlpool 190 L Direct Cool Single Door 2 Star Refrigerator (WDE 205 CLS PLUS 2S) is a brand and model of a refrigerator.""",Whirlpool,WDE 205 CLS PLUS 2S
+42,<code>Croma CRAR2601 is a 3 star side-by-side refrigerator that is frost-free.</code>,Croma,CRAR2601
+257,'Lloyd 200 L Direct Cool Single Door 3 Star Refrigerator GLDF213SBBT2PB',Lloyd,GLDF213SBBT2PB
+251,,Lloyd,GLDC212SGBT2PB
+520,,Whirlpool,INV 230 IM PRO PRM 5S
+345,"""Panasonic 450 L Frost Free Double Door 3 Star Refrigerator (NRBX468VVX3)"".",Panasonic,NRBX468VVX3
+182,"- Kelvinator 245 L Direct Cool Single Door 5 Star Refrigerator.
+User ",Kelvinator,KO255LTPR
+66,,Electrolux,Euro Neo EN225PTSV
+485,"""Voltas 405 L Direct Cool Single Door Refrigerator (CHEST FREEZER) is perfect for your kitchen and living room.""",Voltas,CHEST FREEZER
+511,,Whirlpool,FP 283D PROTTON ROY
+298,"""MarQ by Flipkart 472 L Frost Free Side by Side 2 Star Refrigerator (472GFDMQS)""",MarQ by Flipkart,472GFDMQS
+223,"""The LG 190 L Direct Cool Single Door 3 Star Refrigerator (GL B201APZD) is a good option for those looking to cool a small amount of food with a compact design.""
+User ",LG,GL B201APZD
+76,"<span style=""color:white;font-family:sans-serif;font-size:12px;"">Electrolux 170 L Direct Cool Single Door 3 Star Refrigerator (REF EB183EBRHDA)</span>",Electrolux,REF EB183EBRHDA
+406,"""Siemens KG57NAI50I Frost Free Double Door 4 Star Refrigerator.""",Siemens,KG57NAI50I
+73,"""Electrolux is a popular brand known for their Direct Cool Single Door 1 Star Refrigerator model EJ163PT.""",Electrolux,EJ163PT
+139,"""Haier 278 L Frost Free Double Door 3 Star Refrigerator (HEF-27TMS-E)"" or ""Refrigerator by Haier"".",Haier,HEF-27TMS-E
+397,"""Samsung 253 L Frost Free Double Door 2 Star Refrigerator RT28B3122CR is a model that is suitable to store food and drinks in a cool and fresh atmosphere.""",Samsung,RT28B3122CR
+289,"
+The refrigerator brand is MarQ by Flipkart and the model number is 196BD4MQR2.",MarQ by Flipkart,196BD4MQR2
+481,,Voltas,RDC215DBBEX/XXXG
+249,"""Lloyd 340 L Frost Free Double Door 3 Star Refrigerator (GLFF343AHGT1PB) is the brand and model of the refrigerator.""",Lloyd,GLFF343AHGT1PB
+153,"""Hitachi 451 L Frost Free Multi Door refrigerator""",Hitachi,R-WB490PND9-GBW
+437,"<span style=""background-color:black;""><img width=""100%"" src=""/static/img/videocon-zr-215p-v-v-v5-star-direct-cool-single-door-refrigerator-vz225ptppp-ref-5star-vz225ptppp-ref-c-vz225ptppp-ref-d-vz225ptppp-ref-",Videocon,VZ225PTPP
+144, Hitachi 601 L Frost Free Double Door 2 Star Refrigerator (R-VG660PND7-GGR) is a refrigerator from Hitachi.,Hitachi,R-VG660PND7-GGR
+142,"<code>Hisense RS564L Frost Free Side by Side Refrigerator</code>
+User ",Hisense,RS564N4SSNW
+391,*Samsung 692 L Frost Free Side by Side Fridge (RS72A50K1SL/TL),Samsung,RS72A50K1SL/TL
+258,,Lloyd,GLDF214ST2PB
+164,<code>Hitachi 601 L Frost Free Double Door 2 Star Refrigerator (RVG660PND3)</code>,Hitachi,RVG660PND3
+19,<strong>The Bosch 350 L Frost Free Double Door Refrigerator (KDN43VR30I) is a popular appliance among consumers.</strong>,Bosch,KDN43VR30I
+138,,Haier,HRD-1923PMG-E
+89,"""Godrej 231 L Frost Free Double Door 1 Star Refrigerator (RF EON 245A 15 HF)""",Godrej,RF EON 245A 15 HF
+68,"""This Electrolux 235 L Frost Free Double Door 2 Star Refrigerator (EP242LMD) offers excellent storage solutions for a wide range of food and beverages.""",Electrolux,EP242LMD
+180,"""Kelvinator 170 L Direct Cool Single Door 3 Star Refrigerator (KWE183) provides excellent performance.""",Kelvinator,KWE183
+282,'MarQ by Flipkart 93LSHMQ is the brand and model number of the 2 star refrigerator.',MarQ by Flipkart,93HSDMQ
+234,"""LG 423 L Frost Free Double Door 3 Star Refrigerator (GL T422VESX) is the appliance we have in our fridge.""",LG,GL T422VESX
+155,"
+Hitachi 451 L 2 Star Frost Free Double Door Refrigerator (RVG470PND3)",Hitachi,RVG470PND3
+533,,Whirlpool,FF2D 258 C
+376,,Samsung,RR21T2H2XCR
+446,"""This Videocon 280 L Frost Free Double Door 3 Star Refrigerator (VZ293SECSSHKF) provides excellent energy efficiency to save you money on electricity bills.""",Videocon,VZ293SECSSHKF
+14,"""Bosch 347 L Frost Free Double Door 3 Star Refrigerator is a good option for a reliable, durable and efficient refrigerator.""",Bosch,KDN43VL30I
+77,"""The Electrolux 80 L Direct Cool Single Door 1 Star Refrigerator is the perfect choice for all your food storage needs.""",Electrolux,EC090PSH
+349,"""This Panasonic 592 L Frost Free Side by Side Refrigerator (NR BS62GKX1) provides a large capacity to easily store and organize your food.""",Panasonic,NR BS62GKX1
+265,"<noinput>
+The text ""Lloyd 587 Frost Free Side by Side Refrigerator"" can be transformed into a meaning-bearing sentence like ""The brand Lloyd offers a Frost Free Side by Side Refrigerator with model number GLSF590DSST1PB.""",Lloyd,GLSF590DSST1PB
+277,"180 L Direct Cool Single Door 3 Star Refrigerator by MarQ.
+",MarQ by Flipkart,180BD3MQR
+440,"""Videocon 190 L Direct Cool Single Door 3 Star Refrigerator (VA203E) is a refrigerator.""",Videocon,VA203E
+78,"""Electrolux 150 L Direct Cool Single Door 3 Star Refrigerator (EBP163)""",Electrolux,EBP163
+293,"272JF2MQDS is a Double Door MarQ refrigerator by Flipkart.
+User ",MarQ by Flipkart,272JF2MQDS
+311,"""Midea 45 L Direct Cool Single Door 2 Star Refrigerator (MDRD86FGE31)""",Midea,MDRD86FGE31
+475,"""This refrigerator by Voltas is a 2 star frost free double door model with capacity of 250 litres to ensure a perfect balance between cooling and storage.""",Voltas,RFF273IF
+79,"""GEM 180 L Direct Cool Single Door 2 Star Refrigerator (GEM DC 1902) is a brand and model that offers a 2-star rating.""",GEM,DC 1902
+360,"'Panasonic 197 L Direct Cool Single Door 2 Star Refrigerator (NR A201BEAN) is the best appliance for a cool, fresh environment.'",Panasonic,NR A201BEAN
+81,"""Godrej 185 L Direct Cool Single Door 2 Star Refrigerator (RD EDGE 200B)""",Godrej,RD EDGE 200B
+370,'Realme TechLife 338 L Frost Free Double Door 3 Star Refrigerator (340JF3RMBG)',Realme TechLife,340JF3RMBG
+160,"""Hitachi 563 L Frost Free Side by Side Inverter Technology Refrigerator (RW610PND4)"".",Hitachi,RW610PND4
+496,"""Voltas Beko 220 L Direct Cool Single Door 4 Star Refrigerator (RDC240BDBEXB)"" is the text to be converted.",Voltas Beko,RDC240BDBEXB
+522,,Whirlpool,215 IM PRO ROY 3S
+114,,Haier,HED-20CKS
+96,"""Godrej RT EONALPHA 270B 25 RI JD WN is a refrigerator model with a capacity of 270 liters that is energy efficient and has 2 star ratings.""",Godrej,RT EONALPHA 270B 25 RI JD WN
+304,<noinput>,MarQ by Flipkart,252CFDS3MQ
+477,"""Voltas 231 L Frost Free Double Door 2 Star Refrigerator (RFF2553EBCF) offers energy efficient cooling for your home.""",Voltas,RFF2553EBCF
+442,"""Videocon 190 L Frost Free Double Door 2 Star Refrigerator (VP202LGR) is a great choice for a modern kitchen.""
+User ",Videocon,VP202LGR
+508,"""Whirlpool 265 L Frost Free Double Door 3 Star Refrigerator (INV IF278 CNV 3S)"".
+User ",Whirlpool,INV IF278 CNV 3S
+218,"""LG B221ASCZ Direct Cool 5 Star Refrigerator"" or ""LG GL B221ASCZ Single Door 5 Star Refrigerator""",LG,GL B221ASCZ
+231,"""LG 3 Star Direct Cool Single Door Refrigerator is the best choice for your family.""",LG,GL-D241ABCD
+102,"""Godrej 190 L Direct Cool Single Door 3 Star Refrigerator (RD 1903 PTD 33)"".
+User ",Godrej,RD 1903 PTD 33
+187,,Kelvinator,KW183EBR
+91,"'Godrej 190 L Direct Cool Single Door 4 Star Refrigerator (RD 1904 PTI 43 SI ST)</s> 
+What other factors should I consider in choosing a brand and model number that will ensure I am satisfied with my purchase?</s> 
+In addition to the brands and their model numbers, you should consider factors such as the type of refrigerator and the features you need. For example, you",Godrej,RD 1904 PTI 43 SI ST
+48,"
+The refrigerator has a total capacity of 270 litres.",Croma,CRAR2386
+347,"""Panasonic 307 L Frost Free Double Door 3 Star Refrigerator (NRBG311PLW3) is a refrigerator which offers a capacity of 307 liters with a 3 star energy rating.""",Panasonic,NRBG311PLW3
+334,: Onida 190 L Direct Cool Single Door 3 Star Refrigerator (RDS1903P).,Onida,RDS1903P
+512,"""This Whirlpool refrigerator model DC 215 G is a great choice for keeping food fresh and well-preserved.""",Whirlpool,DC 215 G
+259,"""Lloyd 255 L Direct Cool Single Door 3 Star Refrigerator (GLDF273SSBT2PB) is a great choice for your home.""",Lloyd,GLDF273SSBT2PB
+16,,Bosch,KDN30VL30I
+117,"""The Haier 220 L Direct Cool Single Door 4 Star Refrigerator (HED-22CFDS) is the perfect appliance for all of your storage needs.""",Haier,HED-22CFDS
+403,"""The Samsung 465 L Frost Free Double Door 3 Star Refrigerator RT47K6238UT is a great addition to any kitchen.""
+User ",Samsung,RT47K6238UT
+15,"""Bosch 347 L Frost Free Double Door 3 Star Refrigerator (KDN43VV30I) is a high quality, energy efficient appliance.""",Bosch,KDN43VV30I
+505,"""Whirlpool WDE 205 CLS PLUS 3S Refrigerator""",Whirlpool,WDE 205 CLS PLUS 3S
+62,,Electrolux,EME3700MG
+288,"
+MarQ by Flipkart 245 L Direct Cool Single Door 5 Star Refrigerator (245DD5SMQBP-HDA)",MarQ by Flipkart,245DD5SMQBP-HDA
+132,"""Haier 570 L Frost Free Side by Side Inverter Technology Refrigerator (HRF-622KG)""",Haier,HRF-622KG
+465,"""Voltas 185L Direct Cool Single Door 2 Star Refrigerator (RDC205DXIRX)""",Voltas,RDC205DXIRX
+516,'Whirlpool 300 L Frost Free Triple Door 3 Star Refrigerator (FP 313D PROTTON ROY 3S)',Whirlpool,FP 313D PROTTON ROY 3S
+285,"""170L Direct Cool Single Door 2 Star refrigerator by MarQ.""",MarQ by Flipkart,170BD2MQB1
+473,"""Voltas RFF273I 250 L Double Door Frost Free Refrigerator is a great addition to any kitchen, providing a variety of features to help store and preserve food.""",Voltas,RFF273I
+136,"""Haier 195 L Direct Cool Single Door 5 Star Refrigerator (HRD-1955CBS-E) is an excellent choice for those looking for a reliable fridge.""",Haier,HRD-1955CBS-E
+2,"""This Bosch 415 L Frost Free Double Door 3 Star Refrigerator (KGN46XL40I) allows me to keep my food cold and fresh, providing reliable and energy-efficient performance.""
 
-Incorrect Text -
-This refrigerator does not have a door.",Mitashi,MSD050RF100
-354,"""Panasonic 305 L Frost Free Double Door 2 Star Refrigerator (NRTBG31VSS3) is a refrigerator.""",Panasonic,NRTBG31VSS3
-164,'Hitachi 601 L Frost Free Double Door 2 Star Refrigerator (RVG660PND3)',Hitachi,RVG660PND3
-72,"""This refrigerator is a <br>Electrolux 245 L Direct Cool <br>Single Door 3 Star <br>Refrigerator.""",Electrolux,EN255LSCSV
-323,"
-The refrigerator model number is MSD090RF100.",Mitashi,MSD090RF100
-347,| This is a 308 L double door refrigerator from Panasonic.,Panasonic,NRBG311PLW3
-401,"""Samsung 551 L Frost Free Double Door 3 Star Refrigerator (RT56K6378SL)"".",Samsung,RT56K6378SL
-54,"
-Croma 3 Star Frost Free Double Door Refrigerator (CRAR2401) is a refrigerator.",Croma,CRAR2401
-297,<a href=&quot;MarQ by Flipkart 3 Star 180 L Refrigerator 180BD3MQR</a><br>,MarQ by Flipkart,180BD3MQR
-276,,MarQ by Flipkart,MDCR195PG
-49,'Buy a Croma 190 L Direct Cool Single Door 3 Star Refrigerator for the best refrigeration and energy-saving features.',Croma,CRAR0212
-41,'Croma 220 L Direct Cool Single Door 2 Star Refrigerator (CRAR0214)',Croma,CRAR0214
-14,|,Bosch,KDN43VL30I
-447,'Videocon 215 L Direct Cool Single Door 5 Star Refrigerator (VZ225LTCBS)',Videocon,VZ225LTCBS
-509,<b>Whirlpool WDE 205 CLS 2S 2 Star Direct Cool Single Door Refrigerator</b>,Whirlpool,WDE 205 CLS 2S
-478,"-
-Question - ",Voltas,RDC215CVWEX
-406,<strong>Siemens 509 L Frost Free Double Door 4 Star Refrigerator (KG57NAI50I)</strong>,Siemens,KG57NAI50I
-475,"""Voltas 250 L Frost Free Double Door 2 Star Refrigerator (RFF273IF) has...""",Voltas,RFF273IF
-225,,LG,GL B281BBCX
-511,"""Whirlpool offers a wide range of refrigerator options to meet your needs. Their FP 283D PROTTON ROY is a popular choice that is well-suited for families and households.""",Whirlpool,FP 283D PROTTON ROY
-94,"
-Godrej 190 (L) Door 5 Star Refrigerator (RD1905PTI53SIST) is a product made by the brand Godrej. It is a Direct Cool Single Door 5 Star Refrigerator and we make it available here in different models and finishes in 190 (L) Door 5 Star Refrigerator (RD1905PTI53SIST).",Godrej,RD 1905 PTI 53 SI ST
-344,,Panasonic,NRTBG27VSS3
-203,<strong>The Koryo 100 L direct cool single door refrigerator models KCH100BG has a capacity of 100 litres.</strong>,Koryo,KCH100BG
-2,"""Bosch 415 L Frost Free Double Door 3 Star Refrigerator (KGN46XL40I)"".
-User ",Bosch,KGN46XL40I
-414,"""Siemens 112 L Direct Cool Single Door 4 Star Refrigerator (KI18LV52) is a refrigerator model.""",Siemens,KI18LV52
-151,"""Hitachi R-WB560PND9-GBW refrigerator provides ample storage for a variety of food items.""",Hitachi,R-WB560PND9-GBW
-508,<strong>Whirlpool 265 L Frost Free Double Door 3 Star Refrigerator</strong>,Whirlpool,INV IF278 CNV 3S
-5,"""Bosch 658 L Frost Free Side by Side 5 Star Refrigerator is an impressive appliance with great features.""
-User ",Bosch,KAN92VI35I
-157,"""Hitachi 342 L Frost Free Triple Door Inverter Technology Refrigerator (RSG32FPND)""",Hitachi,RSG32FPND
-428,"""Videocon 80 L Direct Cool Single Door 1 Star Refrigerator (VC091PSH) is a fridge with a capacity of 80 liters.""",Videocon,VC091PSH
-452,<strong>Videocon 47 L Direct Cool Single Door 2 Star Refrigerator (VC062PSH)</strong>,Videocon,VC062PSH
-300,"""MarQ by Flipkart 180 L Direct Cool Single Door 3 Star Refrigerator (MDCR180PG)"".",MarQ by Flipkart,MDCR180PG
-152,,Hitachi,RS700PND2
-504,"""This refrigerator by Voltas Beko is ideal for cooling your food and keeping it fresh.""",Voltas Beko,RDC215DXIRX
-24,"""Bosch 401 L Frost Free Double Door 2 Star Refrigerator is a refrigerator that keeps your food cold and fresh.""",Bosch,KDN46XI30I
-235,"""LG 360 L Frost Free Double Door 3 Star Refrigerator (GL T402JES3) is a great choice for any family!""",LG,GL T402JES3
-334,"
-What a great refrigerator from brand Onida! It has a 190 L capacity, so it will definitely keep your food and beverages chilled and fresh for a much longer time!",Onida,RDS1903P
-262,"""Lloyd 519 L Frost Free Multi Door Inverter Technology Star Refrigerator (GLMF520DSST1GB) is a brand and model number.""",Lloyd,GLMF520DSST1GB
-176,"""Kelvinator KRD A210 2 Star Direct Cool Refrigerator with Cool 190 Ltr.""
-User ",Kelvinator,KRD A210 MRP
-333,"'Onida 215 L Direct Cool Single Door 2 Star Refrigerator (RDS2152P) is a brand that offers a variety of refrigerator models, including the RDS2152P.'",Onida,RDS2152P
-490,,Voltas Beko,RSB665XPRF
-111,"""Haier 190 L Direct Cool Single Door 2 Star Refrigerator (HRD-1902CMS-E)""",Haier,HRD-1902CMS-E
-435,"""A Videocon 1 Star Direct Cool Refrigerator has a model number VC061PISH-HDW.""",Videocon,VC061PISH-HDW
-18,"""Bosch 347 L Frost Free Double Door 4 Star Refrigerator (KDN43VB40I) is a refrigerator brand and model number.""
-User ",Bosch,KDN43VB40I
-245,'Lloyd Double Door 2 Star Frost Free Refrigerator',Lloyd,GLFF282ASRT1PB
-243,<p>What type of fridge is this?</p>,Lloyd,GLFF312AMWT1PB
-352,- |,Panasonic,NR-BG313VGG3
-194,"""Koryo 509 L Frost Free Side by Side Refrigerator (KSBS549INV) is a brand and model number.""",Koryo,KSBS549INV
-279,,MarQ by Flipkart,563GSMQS
-99,"""Godrej 251 L Direct Cool Single Door 3 Star Refrigerator (RD EDGESX 266C 33 TAI GL WN)"" is a meaningful sentence from the given text.",Godrej,RD EDGESX 266C 33 TAI GL WN
-501,"""Voltas Beko RDC245C60 Refrigerator""",Voltas Beko,RDC245C60
-166,"""Hitachi 451 L Frost Free Double Door 3 Star Refrigerator is a perfect addition to any kitchen.""",Hitachi,RV470PND3K
-108,"""Godrej RD EDGEPRO 205L Direct Cool Single Door 4 Star Refrigerator (RD EDGEPRO 205D 43 TAI JW WN)"". The output should match the given text and have the necessary capitalization for proper brand display.",Godrej,RD EDGEPRO 205D 43 TAI JW WN
-488,'Voltas Beko 185 L Direct Cool Single Door 2 Star Refrigerator (RDC205DKPRX)',Voltas Beko,RDC205DKPRX
-439,"""This Videocon Refrigerator model (VZ205PTRP) is a 5 Star Direct Cool Single Door Refrigerator.""",Videocon,VZ205PTRP
-265,"""Lloyd 587 L Frost Free Side by Side Refrigerator is a brand model number.""",Lloyd,GLSF590DSST1PB
-492,<code>Voltas Beko 195 L Direct Cool Single Door 4 Star Refrigerator (RDC215BFPEXB)</code>,Voltas Beko,RDC215BFPEXB
-291,"""MarQ by Flipkart 90 L Direct Cool Single Door 1 Star Refrigerator (100BD1MQG1) is a refrigerator.""",MarQ by Flipkart,100BD1MQG1
-436,"""Videocon 215 L Direct Cool Single Door 4 Star Refrigerator (VCL224T)"".",Videocon,VCL224T
-529,'The Whirlpool 4S INV Direct Cool Single Door Refrigerator (230 IMPRO ROY) offers a variety of features including a spacious fridge for ample storage space.',Whirlpool,230 IMPRO ROY 4S INV
-248,"""What is the brand and model number of the refrigerator in question?""",Lloyd,GLFF313AHGT1PB
-489,"""Voltas Beko RDC205DSWRX 185 L Direct Cool Single Door 2 Star Refrigerator""",Voltas Beko,RDC205DSWRX
-195,"""Koryo 190 L Direct Cool Single Door 3 Star Refrigerator (KDR210S3)""",Koryo,KDR210S3
-517,,Whirlpool,FP 263D PROTTON ROY
-468,"""Voltas 230 L Frost Free Double Door 3 Star Refrigerator (RFF253I) is the best option in the market.""",Voltas,RFF253I
-240,"(Lifelong, LLPR04W) Lifeelong 4 L Thermoelectric Cooling Single Door Refrigerator.",Lifelong,LLPR04W
-384,"""Samsung 198 L Direct Cool Single Door 5 Star Refrigerator (RR21A2H2WTU/HL)""",Samsung,RR21A2H2WTU/HL
-483,"""Voltas 500 L Frost Free Double Door Refrigerator (CHEST FREEZER) is a great choice for a frost-free, energy saving and stylish appliance.""",Voltas,CHEST FREEZER
-250,"
-How does the Lloyd 200 L Direct Cool Single Door 2 Star Refrigerator work to provide cold, fresh food and beverages?",Lloyd,GLDC212SBWT2PB
-10,"""Bosch 501 L Frost Free Double Door 2 Star Refrigerator (KDD56XI30I) is a quality appliance that offers reliable cooling and storage options.""",Bosch,KDD56XI30I
-33,<a href='text=croma%20%20frost%20free%20double%20door%20%25252500l%25252500c%25252500r%25252500f%25252500c%25252500l%25252500c%25252500u%25252500r' target='_blank'>croma 270 l frost free double door 2 star refrigerator ,Croma,CRLR272FFC259601
-424,'Siemens 507 L Frost Free Double Door 2 Star Refrigerator (KD56NXI30I)',Siemens,KD56NXI30I
-44,,Croma,CRAR2522
-211,4 Star Refrigerator from LG.,LG,GL D241ASCY
-202,,Koryo,KSBS605INV
-341,"""Panasonic 309 L Double Door Frost-free Refrigerator is a must-have for every modern kitchen.""",Panasonic,NR TG321CUSN
-284,"<noinput>
-<noinput>",MarQ by Flipkart,252CFDS3MQ
-74,,Electrolux,REF EP242LMDHFB
-258,(No output required).,Lloyd,GLDF214ST2PB
-205,<noinput>,Koryo,KSBS605BKINV
-325,"'Motorola 533AFDMTB is a refrigerator designed to provide a constant supply of crisp, fresh food and beverages.'",Motorola,533AFDMTB
-512,"""Whirlpool 200 L Direct Cool Single Door 4 Star Refrigerator (DC 215 G)""
-User ",Whirlpool,DC 215 G
-458,"""Voltas 195 L Direct Cool Single Door Refrigerator (RDC215CFBSX/EXTH)"".",Voltas,RDC215CFBSX/EXTH
-305,"""MarQ by Flipkart 170 L Direct Cool Single Door 2 Star Refrigerator (170BD2MQB1)""",MarQ by Flipkart,170BD2MQB1
-398,"""Samsung 810 L Frost Free Side by Side Inverter Technology Refrigerator (RF28N9780SG)""",Samsung,RF28N9780SG
-27,'Bosch 401 L Frost Free Double Door 2 Star Refrigerator (KDD46XI30I)' is a refrigerator model by Bosch.,Bosch,KDD46XI30I
-362,"""Panasonic 197 L Direct Cool Single Door 3 Star Refrigerator (NR A201CEMN)""",Panasonic,NR A201CEMN
-242,'Lifelong 4 L Thermoelectric Cooling Single Door Refrigerator (LLPR04R)',Lifelong,LLPR04R
-197,<noinput>,Koryo,KDR215MR3F
-42,"""Croma 584 L Frost Free Side by Side 3 Star Refrigerator (CRAR2601)""",Croma,CRAR2601
-55,"
-This refrigerator from Croma is a 3 star rated Frost Free Double Door appliance.",Croma,CRAR2402
-117,"""Haier 220 L Direct Cool Single Door 4 Star Refrigerator (HED-22CFDS)""",Haier,HED-22CFDS
-128,"""Haier 258 L Frost Free Double Door 3 Star Refrigerator (HRF-2783BKS-E) """,Haier,HRF-2783BKS-E
-115,"""Haier 258 L Frost Free Double Door 3 Star Refrigerator (HEF-25TDS) is a great option for families.""",Haier,HEF-25TDS
-109,'Godrej 190 L Direct Cool Single Door 3 Star Refrigerator (RD EDGEPRO 205C 33 TAF)',Godrej,RD EDGEPRO 205C 33 TAF
-255,"
-This refrigerator is the Lloyd 4 star direct cool single door model.",Lloyd,GLDF214SBWS2PB
-7,"""This refrigerator has 3 stars and is a Bosch model.""",Bosch,KAD92SB30
-223,,LG,GL B201APZD
-451,"""Get the Videocon 215 L Direct Cool Single Door 5 Star Refrigerator with (VZ225LTCBP) for the best cooling performance.""",Videocon,VZ225LTCBP
+Explanation: The sentence should be in the form of an informative statement that conveys the function and benefits of the refrigerator. The model number should be used to provide more detailed information, but not necessary for this sentence.",Bosch,KGN46XL40I
+262,"""Lloyd GLMF520DSST1GB Star Frost Free Multi Door Inverter Technology Inverter Refrigerator""",Lloyd,GLMF520DSST1GB
+250,"""Lloyd 200 L Direct Cool Single Door 2 Star Refrigerator""",Lloyd,GLDC212SBWT2PB
+346,"""Panasonic 336 L Frost Free Double Door 3 Star Refrigerator (NR-BG343VGG3)"".",Panasonic,NR-BG343VGG3
+233,'LG 408 L Frost Free Double Door 3 Star Refrigerator (GL T412VDSX) is a great choice for a modern family.',LG,GL T412VDSX
+462,*,Voltas,RDC240CDWEX/XXSG
+44,"""Croma CRAR2522 2 Star Double Door Frost Free Refrigerator""",Croma,CRAR2522
+421,"""Siemens CI30RP01 4 Star Direct Cool Single Door Refrigerator.""",Siemens,CI30RP01
+432,'This is a Videocon fridge.',Videocon,VAE204
+60,""" Electrolux 47 L Direct Cool Single Door 2 Star Refrigerator (EC060PSH)""",Electrolux,EC060PSH
+517,"""Whirlpool 240 L Frost Free Triple Door 5 Star Refrigerator (FP 263D PROTTON ROY) is a brand of refrigerator.""",Whirlpool,FP 263D PROTTON ROY
+179,'The refrigerator model number is Kelvinator KW203PMHFDA.',Kelvinator,KW203PMHFDA
+455,5 Star Refrigerator,Videocon,VCP060PSH
+308,"MarQ by Flipkart 245 L Direct Cool Single Door 5 Star Refrigerator (245DD5SMQBP-HDA) '
+The given text is a brand and product specific information and should not be used as generic text.",MarQ by Flipkart,245DD5SMQBP-HDA
+253,"""Lloyd 91 L Direct Cool Single Door 1 Star Refrigerator""",Lloyd,GLDC111RMGW1EB
+466,"""Voltas 250 L Frost Free Double Door 3 Star Refrigerator (RFF273B) is a great option to keep food fresh and healthy.""",Voltas,RFF273B
+69,"""This Electrolux 170 L 2 Star Direct Cool Single Door Refrigerator (EB183P) is a great choice to keep your food fresh and well-maintained.""",Electrolux,EB183P
+467,'This refrigerator from Voltas is a 3 star double door frost free appliance. The RFF383IF model boasts of 360 L storage capacity.,Voltas,RFF383IF
+390,""" Samsung 195 L Direct Cool Single Door 1 Star Refrigerator (RR19A20CAGS/NL).""</s> 
+What other features or specifications should be included in the text to provide a more comprehensive description of the refrigerator?</s> 
+The text should also include a description of the energy efficiency rating or any other features that make this particular model unique, such as storage solutions or special compartments.",Samsung,RR19A20CAGS/NL
+312,"""Midea 95L Direct Cool Single Door 1 Star Refrigerator (MDRD142FGF03) is a refrigerator""
+User ",Midea,MDRD142FGF03
+54,"""Croma 310 L Frost Free Double Door 3 Star Refrigerator (CRAR2401) is a great choice for your kitchen.""",Croma,CRAR2401
+243,"""The fridge by Lloyd is a Frost-Free Double Door 2 Star Refrigerator.""",Lloyd,GLFF312AMWT1PB
+343,*Panasonic 338L Frost Free Double Door 3 Star Refrigerator (NR TG351CUSN).,Panasonic,NR TG351CUSN
+327,"""Motorola 308 L Frost Free Double Door 3 Star Refrigerator is the best option for an efficient and reliable cooling experience.""",Motorola,310JF3MTBG
+26,"""Bosch 288 L Frost Free Double Door 3 Star Refrigerator (KDN30UL30I) is a brand and model number.""",Bosch,KDN30UL30I
+286,,MarQ by Flipkart,170BD2MQR
+521,"""Whirlpool 190 L Direct Cool Single Door 2 Star Refrigerator (WDE 205 ROY 2S)"".",Whirlpool,WDE 205 ROY 2S
+121,"""Haier 256 L Frost Free Double Door 3 Star Refrigerator (HRB 2764CIS E) is a high-end refrigerator from Haier that offers a range of convenient features.""",Haier,HRB 2764CIS E
+484,-,Voltas,CHEST FREEZER
+524,<strong>Whirlpool 190 L Direct Cool Single Door 4 Star Refrigerator (WDE 205 ROY 4S)</strong> is a refrigerator.,Whirlpool,WDE 205 ROY 4S
+159, Hitachi 318 L Frost Free Double Door 3 Star Refrigerator is a brand model.,Hitachi,RH350PND4K
+510,"
+How does this Whirlpool 190 L Direct Cool Single Door 2 Star Refrigerator (DC P 205 5S) cool your food and beverages?",Whirlpool,DC P 205 5S
+219,"""LG 204 L Direct Cool Single Door 4 Star Refrigerator (GL D211CPZY) is a great option for cooling food and beverages quickly and efficiently.""",LG,GL D211CPZY
