@@ -1,2 +1,2 @@
-# Amazon--PS1
+# Amazon_PS1
 Product attribute and specification extraction from web
