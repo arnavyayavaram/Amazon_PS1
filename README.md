@@ -1,5 +1,9 @@
 # Applied Science - Amazon Stores - Hyderabad
 
+Certificate of completion
+
+https://drive.google.com/file/d/1hgqjUCdFg_XLuB1pWkdwBlfPfBW4gTlZ/view?usp=sharing
+
 ## Product Attribute and Specification Extraction from Web
 
 ### Named Entity Recognition using BERT
