@@ -2,7 +2,7 @@
 
 Certificate of completion
 
-https://drive.google.com/file/d/1hgqjUCdFg_XLuB1pWkdwBlfPfBW4gTlZ/view?usp=sharing
+(https://drive.google.com/file/d/1sRsswYnAFQY9GIgOrxLbXeDxXatK59Aj/view?usp=sharing)
 
 ## Product Attribute and Specification Extraction from Web
 
